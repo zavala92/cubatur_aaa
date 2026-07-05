@@ -7,9 +7,6 @@ figure PDFs needed to reproduce the numerical experiments.
 ## Contents
 
 - `matlab/` - all MATLAB source files for the experiments.
-- `paper/` - LaTeX source, SIAM class file, compiled PDF, and figure PDFs.
-- `docs/` - project notes and prototype result summary.
-- `logs/` - the most recent paper build log included with this package.
 
 No external data files are required.
 
