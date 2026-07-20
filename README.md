@@ -33,10 +33,6 @@ cd matlab
 run_reproduce
 ```
 
-This runs every experiment used in the paper through `run_freeze.m`, regenerates
-the figure PDFs in `matlab/`, and copies the paper figures into
-`paper/figures/`.
-
 For a faster smoke test:
 
 ```matlab
