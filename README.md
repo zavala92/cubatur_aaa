@@ -16,7 +16,6 @@ No external data files are required.
 - Chebfun, for `jacpts` and `legpts`.
 - An `aaa.m` implementation. Chebfun's `aaa` is sufficient; if an `aaa`
   supporting the optional `'sign'` flag is available, `cub_rule.m` uses it.
-- A LaTeX installation with `pdflatex`, to rebuild the manuscript.
 
 If dependencies are not already on the MATLAB path, either set
 `CHEBFUN_PATH` / `AAA_PATH` before starting MATLAB, or copy
